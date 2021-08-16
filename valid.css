@@ -1,0 +1,22 @@
+.center{ 
+    text-align: center;
+    color: rgb(21, 223, 31);
+}
+.email{
+    background-color: rgb(137, 204, 49);
+    color: white;
+    font-size: large;
+}
+.option{
+    font-size: 2rem;
+    color: red;
+}
+.submit{
+   background-color: rgb(18, 241, 29);
+}
+#inputVal{
+box-shadow: grey;
+}
+#val{
+    background-color: rgb(48, 156, 206);
+}
